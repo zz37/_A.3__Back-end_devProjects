@@ -1,0 +1,24 @@
+/* css syntax --> selector    { property : value }
+                 |-> the who?  |-> what?  |-> how?
+*/
+
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    background-color: rgb(90, 243, 161);
+    border-style: dotted none none; 
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%; /* 5% of the whole page */
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #f34208;
+}

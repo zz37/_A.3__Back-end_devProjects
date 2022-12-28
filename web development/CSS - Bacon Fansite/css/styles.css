@@ -1,0 +1,45 @@
+/* +++++++++ TAG SELECTOR +++++++++ */
+h1 { 
+    color: red; 
+    font-size: 30px; 
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+/* using hover as a psuedo-class */
+img:hover {
+    background-color: gold;
+} 
+
+/* +++++++++ CLASS SELECTOR +++++++++ */
+
+/* for class enter like in object oriented programming with the dor .*/
+.bacon {
+    background-color: aliceblue;
+}
+.comet{
+    background-color: rebeccapurple;
+}
+.circular{
+    border-radius:100% ;
+}
+/* using class selectors is better than tah selector, to choose for the specific class */
+
+/* +++++++++ ID SELECTOR +++++++++ */
+/* ID SELECTORS ARE more specific, it is on the first level of hierarchy, then is the class selector, then the tag selectors*/
+
+/* id is better use is for a single instance
+*/
+
+/* class is for a group of common objects
+*/
+
+/* class and id selectors are first in the ranking so it override the tag selector rules* /
+
+/* html tag can have multiple class, but only 1 id*/
+
+#heading { color: orange;}
+
+#big { font-size: 100px;}

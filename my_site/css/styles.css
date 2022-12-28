@@ -1,0 +1,135 @@
+body {
+    color: #40514E
+    margin: 0px;
+    text-align: center;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 3rem;
+    margin: 40px auto 0px auto;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-weight: normal;
+    line-height: 2px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+h3 { color: #11999E;}
+
+p {
+    line-height: 1;
+}
+
+hr {
+    border: dotted 19px;
+    color: gray;
+    border-bottom: none;
+    margin: 70px auto;
+    width: 4%;
+}
+
+a {
+   color:  #f64f79;
+   font-family: sans-serif;
+   margin: 10px 20px;
+   text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.copyright {
+    color: white;
+    font-size: medium;
+    padding: 20px 0px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.top-container {
+    background-color: rgb(195, 229, 217);
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px;
+}
+
+.bottom-container {
+    background-color: #a49af8;
+    padding: 50px 0px 20px;
+}
+
+.skill-img1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img2 {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto; /*auto makes the margin the same of left and right */ 
+    /*having 4 values is for the box model css, meaning top right bottom left. Which is clock-wise*/ 
+    width: 50%;
+    text-align: left;
+}
+
+.contact-message {
+    width: 40% ;
+    margin: 40px auto 60px ;
+}
+
+/* use clear to wrap the text below the image*/
+/*.code-description1 {
+    clear: left;
+}
+
+.code-description2 {
+    clear: right;
+}
+*/
+
+.top-cloud {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 100px;
+    bottom: 300px;
+}
+
+.btn {
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #1c191c;
+    font-size: 20px;
+    background: #d934c8;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0af550;
+    text-decoration: none;
+  }
