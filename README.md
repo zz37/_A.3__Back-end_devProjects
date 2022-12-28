@@ -3,7 +3,7 @@
 Dr. Angela Yu
 
 Front-end
-
+---
 HTML 5
 
 - Anatomy of websites.
@@ -40,29 +40,12 @@ Bootstrap
 - Fundamentals of UI (user interface) 
 - Bootstrap container, carousels, cards, and navigation bars
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+---
 
 Back-end devlopment
-
+---
 JavaScript ES6
-
 - JavaScript ECMAScript 6 fundamental (pure JS as vanilla JS)
 - Variables, data types, strings, numbers
 - Logical operators, loops, collections, conditionals
@@ -74,13 +57,11 @@ JavaScript ES6
 - Objects and prototypes
 
 jQuery
-
 - jQuery as a JS framework library
 - Functions in jQuery
 - jQuery knowledge for interactive websites
 
 Node JS
-
 - Back-end development with MVC (model view controller) framework
 - Applied concepts, data types, objects, methods, OOP, classes in contact with back-end development
 - Server-side JS, Node command line
@@ -91,53 +72,39 @@ Node JS
 - Native node drivers
 
 Express JS
-
 - Back-end web server framework for Node JS
 - Create Node and Express based servers
 - RESTful Routing with Express (Representational state transfer)
 - Middleware for Node applications
 
 APIs
-
 - Application programming interface
 - HTTP
 - Calling, Reading and authentication API
 - Server to server comms
 
 EJS
-
 - Understand EJS (embedded JS) with Node and Express
 - Templating with EJS, templates
 - Passing data from server to template
 - EJS layouts/partials with EJS
 
-
-
-
-
-
-
-
-
-
-
+---
+---
 
 Databases
-
 - Db fundamentals
 - Data relationships, design a data model
 - Relational dBs, alternative dBs
 - Entity relationship modelling (ERM), Object relational mapping (ORM)
 
 SQL Databases
-
 - Database schemas
 - CRUD (create, read, update, delete)
 - Database joins
 - Querying SQL dBs
 
 No SQL databases
-
 - Serialization
 - No SQL data model
 - Document dBs (Mongo dB)
@@ -147,13 +114,14 @@ No SQL databases
 - Object data modeling library (Mongoose)
 
 Deployment
-
 - Heroku , Mongo dB Atlas
 
-Projects 
+---
+---
 
+Projects
+--- 
 REST API
-
 - REST api guidelines from zero
 - Mongo dB GUI Studio 3T
 - Implement get, post, put, patch, delete API
@@ -161,11 +129,9 @@ REST API
 
 Authentication and Security
 
-
 Advanced
-
+---
 React
-
 - Learn front-end development with React.
 - Understand when and how to use React Components.
 - Learn to pass Props and work with them.
@@ -177,12 +143,7 @@ React
 - Understand the difference between class and functional
 - components.
 
-
-
-
-
 JS advanced
-
 - Arrow Functions
 - Map/Filter/Reduce
 - Find/FindOne/FindIndex
@@ -206,6 +167,9 @@ Boostrap:
 
 Js: 
 1. Haverbeke, M. (2018). *Eloquent JavaScript: a modern introduction to programming*. No Starch Press.
+
+Git: 
+1. https://git-scm.com/book/en/v2
 
 
 
