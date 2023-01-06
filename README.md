@@ -1,7 +1,5 @@
 ﻿Web development topics and references
-
-Dr. Angela Yu
-
+ 
 Front-end
 ---
 HTML 5
