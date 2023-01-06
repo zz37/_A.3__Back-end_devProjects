@@ -41,7 +41,7 @@ Bootstrap
 ---
 ---
 
-Back-end devlopment
+Back-end Development
 ---
 JavaScript ES6
 - JavaScript ECMAScript 6 fundamental (pure JS as vanilla JS)
